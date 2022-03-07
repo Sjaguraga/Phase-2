@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: #d2b48c;
+}
+
+.list {
+  display: flex;
+  background-color: #f2f3ae;
+  overflow: auto;
+  flex-direction: row;
+}
+
+.movies {
+  height: 400px;
+  margin: 5px;
+}
+
+.favs {
+  display: flex;
+  height: 400px;
+  margin: 25px 5px 25px 5px;
+  overflow: auto;
+}
+
+img {
+  height: 400px;
+}
